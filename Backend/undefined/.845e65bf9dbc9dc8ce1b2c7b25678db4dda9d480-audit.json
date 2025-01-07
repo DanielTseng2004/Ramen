@@ -26,6 +26,7 @@
             "hash": "b6dc8c449b9a8d3e27a3e6843238301dfd499dcd1b649cb2bca1a2420cfa7533"
         },
         {
+<<<<<<< Updated upstream
             "date": 1736183883293,
             "name": "undefined\\2025-01-07-01.log",
             "hash": "c73b5197eb540fb523ed33466382ab06b04033108b7f898f697d044e81b963f1"
@@ -34,6 +35,11 @@
             "date": 1736187409872,
             "name": "undefined\\2025-01-07-02.log",
             "hash": "3ab539d0a5ef40d6301d13d0c54c7e27252665af418882ce896d0e6cafc276db"
+=======
+            "date": 1736179814238,
+            "name": "undefined\\2025-01-07-00.log",
+            "hash": "d68731e9346dd55d2f45420713211efa9532ac292fea862c79f62dba92529dbb"
+>>>>>>> Stashed changes
         }
     ],
     "hashType": "sha256"

@@ -60,7 +60,7 @@ export class UserRoute extends Route {
          *  name: string
          * }
          */
-        this.router.get(`${this.url}findOne`, (req, res) => {
+        this.router.get(`${this.url}search`, (req, res) => {
             this.Contorller.findOneByName(req, res);
         })
     }
